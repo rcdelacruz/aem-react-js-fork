@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/95eb7b2527a28281cdbf480c0560744bc5190465/assertion-error/assertion-error.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/assertion-error/assertion-error.d.ts#95eb7b2527a28281cdbf480c0560744bc5190465",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/95eb7b2527a28281cdbf480c0560744bc5190465/assertion-error/assertion-error.d.ts"
+  }
+}

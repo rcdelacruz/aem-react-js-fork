@@ -1,0 +1,119 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "aem-react-js@^0.4.2",
+        "scope": null,
+        "escapedName": "aem-react-js",
+        "name": "aem-react-js",
+        "rawSpec": "^0.4.2",
+        "spec": ">=0.4.2 <0.5.0",
+        "type": "range"
+      },
+      "/Users/ronald/Downloads/aem-react-master/demo/src/main/ts"
+    ]
+  ],
+  "_from": "aem-react-js@>=0.4.2 <0.5.0",
+  "_id": "aem-react-js@0.4.2",
+  "_inCache": true,
+  "_location": "/aem-react-js",
+  "_nodeVersion": "5.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/aem-react-js-0.4.2.tgz_1489903815037_0.7329665559809655"
+  },
+  "_npmUser": {
+    "name": "stemey",
+    "email": "stefan.meyer@sinnerschrader.com"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "aem-react-js@^0.4.2",
+    "scope": null,
+    "escapedName": "aem-react-js",
+    "name": "aem-react-js",
+    "rawSpec": "^0.4.2",
+    "spec": ">=0.4.2 <0.5.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://npm.stratpoint.com/npmjs/aem-react-js/-/aem-react-js-0.4.2.tgz",
+  "_shasum": "ecad7a41ce9f95dfa8f93f854327156fb3e2161b",
+  "_shrinkwrap": null,
+  "_spec": "aem-react-js@^0.4.2",
+  "_where": "/Users/ronald/Downloads/aem-react-master/demo/src/main/ts",
+  "author": {
+    "name": "Stefan Meyer",
+    "email": "stefan.meyer@sinnerschrader.com"
+  },
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "function.name": "^1.0.5",
+    "react": "^15.3.1",
+    "react-addons-shallow-compare": "^15.3.2",
+    "react-dom": "^15.3.1",
+    "react-router": "^3.0.0"
+  },
+  "description": "Aem components written in React.",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "codecov": "^2.0.1",
+    "enzyme": "^2.5.1",
+    "espower-typescript": "^8.0.0",
+    "jsdom": "^9.8.3",
+    "mocha": "^3.1.2",
+    "nyc": "^10.0.0",
+    "power-assert": "^1.2.0",
+    "react-addons-test-utils": "^15.3.1",
+    "tslint": "^4.0.1",
+    "typescript": "^2.1.1",
+    "typings": "^2.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ecad7a41ce9f95dfa8f93f854327156fb3e2161b",
+    "tarball": "http://npm.stratpoint.com/npmjs/aem-react-js/-/aem-react-js-0.4.2.tgz"
+  },
+  "gitHead": "795a26d7788d5eb2642316952bdd950feb2dc078",
+  "keywords": [
+    "aem",
+    "cq5",
+    "react",
+    "cms",
+    "typescript",
+    "node"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/sinnerschrader/aem-react/blob/master/LICENSE.md"
+  },
+  "maintainers": [
+    {
+      "name": "stemey",
+      "email": "stefan.meyer@sinnerschrader.com"
+    }
+  ],
+  "name": "aem-react-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/sinnerschrader/aem-react-js"
+  },
+  "scripts": {
+    "build": "typings install &&./node_modules/typescript/bin/tsc",
+    "lint": "tslint *.tsx",
+    "posttest": "nyc report --reporter=json && codecov -f coverage/*.json",
+    "postversion": "git push origin master --tags && npm publish",
+    "preversion": "npm test && npm run build",
+    "single-test": "nyc mocha --compilers ts:espower-typescript/guess ",
+    "test": "npm run build && npm run lint &&  nyc mocha --compilers ts:espower-typescript/guess test/*.js ",
+    "test-html": "npm run test && nyc report --reporter=html",
+    "version": "git add ."
+  },
+  "typings": "dist/src/index.d.ts",
+  "version": "0.4.2"
+}

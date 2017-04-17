@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Code coverage report for aem-react-js/store/ClientSling.tsx</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+<body>
+<div class='wrapper'>
+  <div class='pad1'>
+    <h1>
+      <a href="../../index.html">all files</a> / <a href="index.html">aem-react-js/store/</a> ClientSling.tsx
+    </h1>
+    <div class='clearfix'>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">88.1% </span>
+        <span class="quiet">Statements</span>
+        <span class='fraction'>37/42</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">78.95% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>15/19</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>6/6</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">86.84% </span>
+        <span class="quiet">Lines</span>
+        <span class='fraction'>33/38</span>
+      </div>
+    </div>
+  </div>
+  <div class='status-line high'></div>
+<pre><table class="coverage">
+<tr><td class="line-count quiet">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83</td><td class="line-coverage quiet"><span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">4×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">4×</span>
+<span class="cline-any cline-yes">4×</span>
+<span class="cline-any cline-yes">4×</span>
+<span class="cline-any cline-yes">3×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-yes">2×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1×</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import {SlingResourceOptions, AbstractSling, EditDialogData} from "./Sling";
+import Cache from "./Cache";
+import {ResourceComponent} from "../component/ResourceComponent";
+&nbsp;
+export interface FetchWindow {
+    fetch(url: string, options: any): any;
+}
+&nbsp;
+/**
+ * ClientSling gets all data from the cache. If the data is not available then it will get
+ * the part of the cache which corresponds to the given component from the server.
+ */
+export default class ClientSling extends AbstractSling {
+    constructor(cache: Cache, origin: string, fetch?: FetchWindow) {
+        super();
+        this.cache = cache;
+        this.origin = origin;
+        if (!fetch) {
+            this.fetch = ((window as any) as FetchWindow);
+        } else {
+            this.fetch = fetch;
+        }
+    }
+&nbsp;
+    private cache: Cache;
+    private origin: string;
+    private fetch: FetchWindow;
+&nbsp;
+    public subscribe(listener: ResourceComponent&lt;any, any, any&gt;, path: string, options?: SlingResourceOptions): void {
+        //
+        let depth: number;
+        <span class="missing-if-branch" title="if path not taken" >I</span>if (!options || typeof options.depth === "undefined" || options.depth === null) {
+<span class="cstat-no" title="statement not covered" >            depth = 0;</span>
+        } else {
+            depth = options.depth;
+        }
+        let resource: any = this.cache.get(path, depth);
+        if (resource === null || typeof resource === "undefined") {
+            let depthAsString: string;
+            <span class="missing-if-branch" title="if path not taken" >I</span>if (depth &lt; 0) {
+<span class="cstat-no" title="statement not covered" >                depthAsString = "infinity";</span>
+            } else {
+                depthAsString = options.depth + "";
+            }
+            // TODO what about depth as string??
+            let url: string = this.origin + path + ".json.html"; // + depthAsString + ".json";
+            const serverRenderingParam: string = "serverRendering=disabled";
+            let serverRendering: boolean = window.location.search.indexOf(serverRenderingParam) &gt;= 0;
+            <span class="missing-if-branch" title="if path not taken" >I</span>if (serverRendering) {
+<span class="cstat-no" title="statement not covered" >                url += "?" + serverRenderingParam;</span>
+            }
+            return this.fetch.fetch(url, {credentials: "same-origin"}).then((response: any) =&gt; {
+                <span class="missing-if-branch" title="if path not taken" >I</span>if (response.status === 404) {
+<span class="cstat-no" title="statement not covered" >                    return {};</span>
+                } else {
+                    return response.json();
+                }
+            }).then((json: any) =&gt; {
+                this.cache.mergeCache(json);
+                listener.changedResource(path, this.cache.get(path, depth));
+            });
+        } else {
+            listener.changedResource(path, resource);
+        }
+    }
+&nbsp;
+    public renderDialogScript(path: string, resourceType: string): EditDialogData {
+        // TODO Can we get the script from the server too?. This will probably not work as the returned script is
+        // not executed as in the initial server rendering case. For react router we need to do a reload anyways.
+        return this.cache.getScript(path);
+    }
+&nbsp;
+    public includeResource(path: string, resourceType: string): string {
+        // Currently cannot be loaded from server alone.
+        return this.cache.getIncluded(path);
+    }
+&nbsp;
+    public getRequestPath(): string {
+<span class="cstat-no" title="statement not covered" >        return window.location.pathname;</span>
+    }
+&nbsp;
+}
+&nbsp;</pre></td></tr>
+</table></pre>
+<div class='push'></div><!-- for sticky footer -->
+</div><!-- /wrapper -->
+<div class='footer quiet pad2 space-top1 center small'>
+  Code coverage
+  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Fri Nov 18 2016 18:28:47 GMT+0100 (CET)
+</div>
+</div>
+<script src="../../prettify.js"></script>
+<script>
+window.onload = function () {
+        if (typeof prettyPrint === 'function') {
+            prettyPrint();
+        }
+};
+</script>
+<script src="../../sorter.js"></script>
+</body>
+</html>

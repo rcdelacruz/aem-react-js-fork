@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe3f355c-5a9a-4f59-b47e-4e8fb4efe50f" name="Default" comment="" />
+    <ignored path="aem-react-js.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="aem-react-js" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AemLinkTest.tsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/AemLinkTest.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AemLink.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/router/AemLink.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientSling.tsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/ClientSling.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="66" column="2" lean-forward="false" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerSling.tsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/ServerSling.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-98">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cache.tsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/Cache.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientSlingTest.tsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ClientSlingTest.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-608">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AemLink.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/router/AemLink.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AemLinkTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/AemLinkTest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+              <folding>
+                <marker date="1489903783000" expanded="true" signature="711:3476" ph="{...}" />
+                <marker date="1489903783000" expanded="true" signature="2519:3472" ph="{...}" />
+                <marker date="1489903783000" expanded="true" signature="3170:3319" ph="{&quot;router&quot;: router...}" />
+                <marker date="1489903783000" expanded="true" signature="3257:3309" ph="{&quot;container&quot;: container...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AemLink.tsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/router/AemLink.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runnable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/runnable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="342" column="20" lean-forward="false" selection-start-line="342" selection-start-column="20" selection-end-line="342" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createMemoryHistory</find>
+      <find>no-unused-variable</find>
+      <find>label-undefined</find>
+      <find>no-nu</find>
+      <find>activeStyle</find>
+      <find>client</find>
+      <find>History</find>
+      <find>context.pa</find>
+      <find>this</find>
+      <find>dialog</find>
+      <find>Router</find>
+      <find>console</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tsd.json" />
+        <option value="$PROJECT_DIR$/test/ResourceComponentTest.js" />
+        <option value="$PROJECT_DIR$/test/ReactParsysTest.js" />
+        <option value="$PROJECT_DIR$/test/AemTest.js" />
+        <option value="$PROJECT_DIR$/component/ReactParsys.tsx" />
+        <option value="$PROJECT_DIR$/ResourceUtils.tsx" />
+        <option value="$PROJECT_DIR$/test/ReactParsysTest.tsx" />
+        <option value="$PROJECT_DIR$/test/MockSling.tsx" />
+        <option value="$PROJECT_DIR$/test/EditDialogTest.tsx" />
+        <option value="$PROJECT_DIR$/test/AemTestTest.tsx" />
+        <option value="$PROJECT_DIR$/router/ResourceMappingImpl.tsx" />
+        <option value="$PROJECT_DIR$/test/ResourceRouteTest.tsx" />
+        <option value="$PROJECT_DIR$/router/ResourceRoute.tsx" />
+        <option value="$PROJECT_DIR$/tslint.json" />
+        <option value="$PROJECT_DIR$/include.tsx" />
+        <option value="$PROJECT_DIR$/ComponentManager.tsx" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/router/AemRoute.ts" />
+        <option value="$PROJECT_DIR$/component/RootComponent.d.ts" />
+        <option value="$PROJECT_DIR$/ServerRenderer.d.ts" />
+        <option value="$PROJECT_DIR$/ServerRenderer.tsx" />
+        <option value="$PROJECT_DIR$/router/AemRoute.tsx" />
+        <option value="$PROJECT_DIR$/test/CacheTest.tsx" />
+        <option value="$PROJECT_DIR$/test/ResourceUtilsTest.tsx" />
+        <option value="$PROJECT_DIR$/test/ResourceComponentTest.tsx" />
+        <option value="$PROJECT_DIR$/references.d.ts" />
+        <option value="$PROJECT_DIR$/typings/index.d.ts" />
+        <option value="$PROJECT_DIR$/AemContext.d.ts" />
+        <option value="$PROJECT_DIR$/typings/modules/react-addons-shallow-compare/index.d.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/typings.json" />
+        <option value="$PROJECT_DIR$/component/VanillaWrapper.tsx" />
+        <option value="$PROJECT_DIR$/test/VanillaIncludeTest.tsx" />
+        <option value="$PROJECT_DIR$/component/VanillaInclude.tsx" />
+        <option value="$PROJECT_DIR$/RootComponentRegistry.d.ts" />
+        <option value="$PROJECT_DIR$/component/WrapperFactory.tsx" />
+        <option value="$PROJECT_DIR$/ComponentRegistry.tsx" />
+        <option value="$PROJECT_DIR$/test/WrapperFactoryTest.tsx" />
+        <option value="$PROJECT_DIR$/component/ResourceComponent.tsx" />
+        <option value="$PROJECT_DIR$/component/RootComponent.tsx" />
+        <option value="$PROJECT_DIR$/store/Cache.tsx" />
+        <option value="$PROJECT_DIR$/store/ServerSling.tsx" />
+        <option value="$PROJECT_DIR$/.npmignore" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/test/ComponentRegistryTest.tsx" />
+        <option value="$PROJECT_DIR$/RootComponentRegistry.tsx" />
+        <option value="$PROJECT_DIR$/test/AemTest.tsx" />
+        <option value="$PROJECT_DIR$/test/AemLinkTest.js" />
+        <option value="$PROJECT_DIR$/store/ClientSling.tsx" />
+        <option value="$PROJECT_DIR$/test/AemLinkTest.tsx" />
+        <option value="$PROJECT_DIR$/router/AemLink.tsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeJsMochaPackageDirSetting">
+    <data>$PROJECT_DIR$/node_modules/mocha</data>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aem-react-js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aem-react-js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="aem-react-js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="js-tslint-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js-tslint-package" value="$PROJECT_DIR$/node_modules/tslint" />
+    <property name="nodejs.mocha.node_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="106" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="110" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="896" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="106" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="110" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="896" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$3/Languages" value="Asp" />
+    <property name="js.eslint.eslintPackage" value="$PROJECT_DIR$/node_modules/eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/component" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/aem-react-js" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/component" />
+      <recent name="$PROJECT_DIR$/di" />
+      <recent name="$PROJECT_DIR$/router" />
+      <recent name="$PROJECT_DIR$/store" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.AemLinkTest">
+    <configuration default="false" name="Cache.should return match of depth 1" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/CacheTest.tsx</test-file>
+      <test-names>
+        <name value="Cache" />
+        <name value="should return match of depth 1" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="test-html" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test-html" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lint" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>/usr/local/bin/node</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="wallaby" factoryName="Wallaby.js" config="$PROJECT_DIR$/wallaby.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <karma-package-dir value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ResourceComponentTest" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ResourceComponentTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ReactParsysTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ReactParsysTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="WrapperFactory" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/WrapperFactoryTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="CacheTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/CacheTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ContainerTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ContainerTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ServerSlingTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ServerSlingTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ServerRendererTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ServerRendererTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ComponentRegistryTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ComponentRegistryTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="RootComponentRegistryTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/RootComponentRegistryTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientSlingTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ClientSlingTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ServiceProxyTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ServiceProxyTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ComponentManagerTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ComponentManagerTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="AemLinkTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/AemLinkTest.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="ResourceRouteTest" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/ResourceRouteTest.js</test-file>
+      <method />
+    </configuration>
+    <list size="20">
+      <item index="0" class="java.lang.String" itemvalue="Karma.test" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.ResourceComponentTest" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.ReactParsysTest" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.WrapperFactory" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.CacheTest" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.ContainerTest" />
+      <item index="6" class="java.lang.String" itemvalue="Mocha.ServerSlingTest" />
+      <item index="7" class="java.lang.String" itemvalue="Mocha.ServerRendererTest" />
+      <item index="8" class="java.lang.String" itemvalue="Mocha.ComponentRegistryTest" />
+      <item index="9" class="java.lang.String" itemvalue="Mocha.RootComponentRegistryTest" />
+      <item index="10" class="java.lang.String" itemvalue="Mocha.ClientSlingTest" />
+      <item index="11" class="java.lang.String" itemvalue="Mocha.ServiceProxyTest" />
+      <item index="12" class="java.lang.String" itemvalue="Mocha.ComponentManagerTest" />
+      <item index="13" class="java.lang.String" itemvalue="Mocha.AemLinkTest" />
+      <item index="14" class="java.lang.String" itemvalue="Mocha.ResourceRouteTest" />
+      <item index="15" class="java.lang.String" itemvalue="Mocha.Cache.should return match of depth 1" />
+      <item index="16" class="java.lang.String" itemvalue="npm.test-html" />
+      <item index="17" class="java.lang.String" itemvalue="npm.test" />
+      <item index="18" class="java.lang.String" itemvalue="npm.build" />
+      <item index="19" class="java.lang.String" itemvalue="npm.lint" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="npm.test-html" />
+        <item index="1" class="java.lang.String" itemvalue="npm.lint" />
+        <item index="2" class="java.lang.String" itemvalue="npm.test" />
+        <item index="3" class="java.lang.String" itemvalue="npm.build" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.Cache.should return match of depth 1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3f355c-5a9a-4f59-b47e-4e8fb4efe50f" name="Default" comment="" />
+      <created>1450774459656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1450774459656</updated>
+      <workItem from="1459403283546" duration="70000" />
+      <workItem from="1459576746999" duration="488000" />
+      <workItem from="1459834180560" duration="2872000" />
+      <workItem from="1460112134824" duration="596000" />
+      <workItem from="1460114116247" duration="598000" />
+      <workItem from="1460352683244" duration="1519000" />
+      <workItem from="1460622733513" duration="18000" />
+      <workItem from="1461391246548" duration="3067000" />
+      <workItem from="1462944702768" duration="4571000" />
+      <workItem from="1463031310330" duration="1080000" />
+      <workItem from="1463117481236" duration="1933000" />
+      <workItem from="1463202462520" duration="4394000" />
+      <workItem from="1463294944953" duration="4595000" />
+      <workItem from="1468168520448" duration="957000" />
+      <workItem from="1468172213353" duration="22858000" />
+      <workItem from="1468768417255" duration="13961000" />
+      <workItem from="1469509738176" duration="10309000" />
+      <workItem from="1470589798627" duration="6937000" />
+      <workItem from="1471331692947" duration="15366000" />
+      <workItem from="1471965254296" duration="26868000" />
+      <workItem from="1472562964854" duration="29485000" />
+      <workItem from="1473833187411" duration="456000" />
+      <workItem from="1474015583795" duration="2426000" />
+      <workItem from="1474783472418" duration="1531000" />
+      <workItem from="1475084325065" duration="2785000" />
+      <workItem from="1475215563271" duration="10942000" />
+      <workItem from="1475858558759" duration="112000" />
+      <workItem from="1475906522008" duration="1163000" />
+      <workItem from="1475991159687" duration="26084000" />
+      <workItem from="1477118714204" duration="19034000" />
+      <workItem from="1477655102284" duration="97000" />
+      <workItem from="1477718519720" duration="4395000" />
+      <workItem from="1477837500416" duration="1376000" />
+      <workItem from="1477921013419" duration="2795000" />
+      <workItem from="1478194178093" duration="983000" />
+      <workItem from="1478195247270" duration="38301000" />
+      <workItem from="1478587119555" duration="5114000" />
+      <workItem from="1478593717159" duration="991000" />
+      <workItem from="1478595384507" duration="4678000" />
+      <workItem from="1478685069647" duration="7904000" />
+      <workItem from="1478791851787" duration="17701000" />
+      <workItem from="1479393748088" duration="8887000" />
+      <workItem from="1479486287768" duration="111000" />
+      <workItem from="1479486546117" duration="4826000" />
+      <workItem from="1479653390228" duration="5921000" />
+      <workItem from="1483944607391" duration="616000" />
+      <workItem from="1485272783330" duration="1858000" />
+      <workItem from="1485439832087" duration="556000" />
+      <workItem from="1486188613513" duration="757000" />
+      <workItem from="1486464515755" duration="1247000" />
+      <workItem from="1486805505542" duration="2360000" />
+      <workItem from="1487237025390" duration="588000" />
+      <workItem from="1487764749114" duration="1227000" />
+      <workItem from="1488523723095" duration="9386000" />
+      <workItem from="1488701733626" duration="4014000" />
+      <workItem from="1488952309523" duration="1303000" />
+      <workItem from="1489162807754" duration="246000" />
+      <workItem from="1489163243469" duration="7106000" />
+      <workItem from="1489425602552" duration="3996000" />
+      <workItem from="1489647969620" duration="1565000" />
+      <workItem from="1489727936198" duration="1798000" />
+      <workItem from="1489817998291" duration="10000" />
+      <workItem from="1489818065131" duration="6987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 29m 30s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 29m 57s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 31m 07s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 31m 54s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 31m 57s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 31m 59s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 32m 02s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 32m 11s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 32m 16s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="AemLinkTest - 2017.03.18 at 16h 32m 45s.xml">
+      <configuration name="AemLinkTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="376300000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3974152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984733" sideWeight="0.33279485" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44580153" sideWeight="0.49353796" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37802908" sideWeight="0.33701658" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44885495" sideWeight="0.4838449" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39694658" sideWeight="0.6308562" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41984734" sideWeight="0.5638126" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28271407" sideWeight="0.6629834" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34961832" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24878837" sideWeight="0.4944" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.50797266" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984733" sideWeight="0.66720515" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847682" sideWeight="0.55815834" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3974152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847682" sideWeight="0.55815834" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38964993" sideWeight="0.365105" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2253635" sideWeight="0.471831" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44580153" sideWeight="0.49353796" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.49676898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37099236" sideWeight="0.63489497" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37862596" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22859451" sideWeight="0.52816904" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35099337" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24920128" sideWeight="0.4944" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.50797266" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43909347" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/AemTest.js.map" />
+        <option value="$PROJECT_DIR$/ResourceUtils.js" />
+        <option value="$PROJECT_DIR$/ResourceUtils.js.map" />
+        <option value="$PROJECT_DIR$/component/ReactParsys.js" />
+        <option value="$PROJECT_DIR$/component/ReactParsys.js.map" />
+        <option value="$PROJECT_DIR$/component/ResourceComponent.js" />
+        <option value="$PROJECT_DIR$/component/ResourceComponent.js.map" />
+        <option value="$PROJECT_DIR$/component/WrapperFactory.js" />
+        <option value="$PROJECT_DIR$/component/WrapperFactory.js.map" />
+        <option value="$PROJECT_DIR$/test/EditDialogTest.js" />
+        <option value="$PROJECT_DIR$/test/EditDialogTest.js.map" />
+        <option value="$PROJECT_DIR$/test/MockSling.js" />
+        <option value="$PROJECT_DIR$/test/MockSling.js.map" />
+        <option value="$PROJECT_DIR$/test/ResourceComponentTest.js" />
+        <option value="$PROJECT_DIR$/test/ResourceComponentTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ResourceUtilsTest.js" />
+        <option value="$PROJECT_DIR$/test/ResourceUtilsTest.js.map" />
+        <option value="$PROJECT_DIR$/test/WrapperFactoryTest.js" />
+        <option value="$PROJECT_DIR$/test/WrapperFactoryTest.js.map" />
+        <option value="$PROJECT_DIR$/ComponentRegistry.js" />
+        <option value="$PROJECT_DIR$/ComponentRegistry.js.map" />
+        <option value="$PROJECT_DIR$/RootComponentRegistry.js" />
+        <option value="$PROJECT_DIR$/RootComponentRegistry.js.map" />
+        <option value="$PROJECT_DIR$/include.js" />
+        <option value="$PROJECT_DIR$/include.js.map" />
+        <option value="$PROJECT_DIR$/ComponentManager.js" />
+        <option value="$PROJECT_DIR$/ComponentManager.js.map" />
+        <option value="$PROJECT_DIR$/AemContext.js" />
+        <option value="$PROJECT_DIR$/AemContext.js.map" />
+        <option value="$PROJECT_DIR$/ServerRenderer.js" />
+        <option value="$PROJECT_DIR$/ServerRenderer.js.map" />
+        <option value="$PROJECT_DIR$/di/Container.js" />
+        <option value="$PROJECT_DIR$/di/Container.js.map" />
+        <option value="$PROJECT_DIR$/di/ServiceProxy.js" />
+        <option value="$PROJECT_DIR$/di/ServiceProxy.js.map" />
+        <option value="$PROJECT_DIR$/test/ComponentRegistryTest.js" />
+        <option value="$PROJECT_DIR$/test/ComponentRegistryTest.js.map" />
+        <option value="$PROJECT_DIR$/test/RootComponentRegistryTest.js" />
+        <option value="$PROJECT_DIR$/test/RootComponentRegistryTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ServerSlingTest.js" />
+        <option value="$PROJECT_DIR$/test/ServerSlingTest.js.map" />
+        <option value="$PROJECT_DIR$/test/setup.js" />
+        <option value="$PROJECT_DIR$/test/setup.js.map" />
+        <option value="$PROJECT_DIR$/test/tests.js" />
+        <option value="$PROJECT_DIR$/test/tests.js.map" />
+        <option value="$PROJECT_DIR$/test/CacheTest.js" />
+        <option value="$PROJECT_DIR$/test/CacheTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ClientSlingTest.js" />
+        <option value="$PROJECT_DIR$/test/ClientSlingTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ContainerTest.js" />
+        <option value="$PROJECT_DIR$/test/ContainerTest.js.map" />
+        <option value="$PROJECT_DIR$/test/utils.js" />
+        <option value="$PROJECT_DIR$/test/utils.js.map" />
+        <option value="$PROJECT_DIR$/test/ServerRendererTest.js" />
+        <option value="$PROJECT_DIR$/test/ServerRendererTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ServiceProxyTest.js" />
+        <option value="$PROJECT_DIR$/test/ServiceProxyTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ComponentManagerTest.js" />
+        <option value="$PROJECT_DIR$/test/ComponentManagerTest.js.map" />
+        <option value="$PROJECT_DIR$/store/Sling.js" />
+        <option value="$PROJECT_DIR$/store/Sling.js.map" />
+        <option value="$PROJECT_DIR$/store/Cache.js" />
+        <option value="$PROJECT_DIR$/store/Cache.js.map" />
+        <option value="$PROJECT_DIR$/store/ServerSling.js" />
+        <option value="$PROJECT_DIR$/store/ServerSling.js.map" />
+        <option value="$PROJECT_DIR$/store/ClientSling.js" />
+        <option value="$PROJECT_DIR$/store/ClientSling.js.map" />
+        <option value="$PROJECT_DIR$/router/AemLink.js" />
+        <option value="$PROJECT_DIR$/router/AemLink.js.map" />
+        <option value="$PROJECT_DIR$/router/ResourceMapping.js" />
+        <option value="$PROJECT_DIR$/router/ResourceMapping.js.map" />
+        <option value="$PROJECT_DIR$/router/ResourceMappingImpl.js" />
+        <option value="$PROJECT_DIR$/router/ResourceMappingImpl.js.map" />
+        <option value="$PROJECT_DIR$/router/ResourceRoute.js" />
+        <option value="$PROJECT_DIR$/router/ResourceRoute.js.map" />
+        <option value="$PROJECT_DIR$/component/Script.js" />
+        <option value="$PROJECT_DIR$/component/Script.js.map" />
+        <option value="$PROJECT_DIR$/component/RootComponent.js" />
+        <option value="$PROJECT_DIR$/component/RootComponent.js.map" />
+        <option value="$PROJECT_DIR$/component/EditDialog.js" />
+        <option value="$PROJECT_DIR$/component/EditDialog.js.map" />
+        <option value="$PROJECT_DIR$/component/EditMarker.js" />
+        <option value="$PROJECT_DIR$/component/EditMarker.js.map" />
+        <option value="$PROJECT_DIR$/component/VanillaWrapper.js" />
+        <option value="$PROJECT_DIR$/component/VanillaWrapper.js.map" />
+        <option value="$PROJECT_DIR$/component/AemComponent.js" />
+        <option value="$PROJECT_DIR$/component/AemComponent.js.map" />
+        <option value="$PROJECT_DIR$/test/ResourceRouteTest.js.map" />
+        <option value="$PROJECT_DIR$/router/ResourceMappingImpl.jsx" />
+        <option value="$PROJECT_DIR$/test/ReactParsysTest.js" />
+        <option value="$PROJECT_DIR$/test/AemTest.js" />
+        <option value="$PROJECT_DIR$/test/ReactParsysTest.js.map" />
+        <option value="$PROJECT_DIR$/test/ResourceRouteTest.js" />
+        <option value="$PROJECT_DIR$/test/AemLinkTest.js" />
+        <option value="$PROJECT_DIR$/test/AemTestTest.js.map" />
+        <option value="$PROJECT_DIR$/test/AemLinkTest.js.map" />
+        <option value="$PROJECT_DIR$/test/AemTestTest.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/dcomm/widget/handset/HandsetList.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/dcomm/widget/handset/HandsetOverviewLoadMore.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/dcomm/singletons/OrderStatusService.js" />
+        <option value="$PROJECT_DIR$/include.jsx" />
+        <option value="$PROJECT_DIR$/ComponentManager.jsx" />
+        <option value="$PROJECT_DIR$/RootComponentRegistry.jsx" />
+        <option value="$PROJECT_DIR$/ComponentRegistry.jsx" />
+        <option value="$PROJECT_DIR$/ResourceUtils.jsx" />
+        <option value="$PROJECT_DIR$/AemContext.jsx" />
+        <option value="$PROJECT_DIR$/store/ClientSling.jsx" />
+        <option value="$PROJECT_DIR$/store/ServerSling.jsx" />
+        <option value="$PROJECT_DIR$/router/AemRoute.js" />
+        <option value="$PROJECT_DIR$/router/AemRoute.jsx" />
+        <option value="$PROJECT_DIR$/router/AemRoute.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/src/server.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/src/componentRegistry.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/src/server.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/src/client.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/src/client.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/src/componentRegistry.js" />
+        <option value="$PROJECT_DIR$/component/VanillaInclude.jsx" />
+        <option value="$PROJECT_DIR$/test/VanillaIncludeTest.jsx" />
+        <option value="$PROJECT_DIR$/test/setup.jsx" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/StringUtils.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/ReflectionUtils.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/annotations.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/StringUtils.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/modernizr.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/jquery.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/backbone.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/Widget.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/modernizr.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/backbone.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/Widget.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/underscore.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/jquery.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/annotations.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/underscore.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/Registry.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/ReflectionUtils.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/CssConstants.js.map" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/CssConstants.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/Registry.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/mixins/ContentUpdatableImpl.js" />
+        <option value="$PROJECT_DIR$/../ume/dcomm-kerpen/prototype/app/js/libs-wrapper/mixins/ContentUpdatableImpl.js.map" />
+        <option value="$PROJECT_DIR$/test/WrapperFactoryTest.jsx" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/accordion/accordion-element.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/accordion/accordion.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/accordion/accordion.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/accordion/accordion-element.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/vanilla/TextField.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/vanilla/Panel.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/vanilla/TextField.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/vanilla/Panel.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/embedded/embedded.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/embedded/embedded.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/text/richtext.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/text/text.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/text/richtext.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/text/text.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/componentRegistry.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/client.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/server.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/CityView.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/Home.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/CityListView.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/CityListView.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/CityFinder.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/CityView.js.map" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/Home.js" />
+        <option value="$PROJECT_DIR$/../aem-react/demo/src/main/ts/cityfinder/CityFinder.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/WrapperFactoryTest.tsx</url>
+          <line>77</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ComponentRegistry.tsx</url>
+          <line>35</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/AemLinkTest.js</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/component/ResourceComponent.js</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/component/RootComponent.tsx</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/router/AemLink.js</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="324" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="1279" column="13" lean-forward="false" selection-start-line="1279" selection-start-column="13" selection-end-line="1279" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router/es/hashHistory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/ResourceRoute.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AemContext.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AemContext.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/lib/ReactNoopUpdateQueue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/lib/ReactPureComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/modules/react-addons-shallow-compare/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/EditDialog.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/ReactParsys.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="65" lean-forward="false" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/AemComponent.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/ResourceComponent.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VanillaIncludeTest.tsx" />
+    <entry file="file://$PROJECT_DIR$/ResourceUtils.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/AemComponent.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/WrapperFactory.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComponentRegistry.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComponentRegistry.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/VanillaInclude.tsx" />
+    <entry file="file://$PROJECT_DIR$/test/WrapperFactoryTest.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="false" />
+            <marker date="1489903162000" expanded="true" signature="3207:3905" ph="{...}" />
+            <marker date="1489903162000" expanded="true" signature="3207:4691" ph="{...}" />
+            <marker date="1489903162000" expanded="true" signature="3289:3407" ph="{...}" />
+            <marker date="1489903162000" expanded="true" signature="3966:4685" ph="{...}" />
+            <marker date="1489903162000" expanded="true" signature="4029:4202" ph="{...}" />
+            <marker date="1489903162000" expanded="true" signature="4053:4192" ph="{...}" />
+            <marker date="1489903162000" expanded="true" signature="4078:4178" ph="{&quot;sling:resourceType&quot;: &quot;components/text&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <marker date="1489903743000" expanded="true" signature="1632:1695" ph="{&quot;es6-promise&quot;: &quot;^4.0.5&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/globals/history/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="77" column="9" lean-forward="false" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/globals/react-router/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1506">
+          <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RootComponentRegistry.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ComponentRegistryTest.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RootComponentRegistry.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-dom/lib/ReactCompositeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="347" column="22" lean-forward="false" selection-start-line="347" selection-start-column="22" selection-end-line="347" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-dom/lib/ReactServerRendering.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/RootComponent.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/ResourceComponent.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/enzyme/build/ShallowWrapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="734" column="20" lean-forward="false" selection-start-line="734" selection-start-column="20" selection-end-line="734" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AemTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <marker date="1489903782000" expanded="true" signature="417:1829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AemTest.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/globals/enzyme/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="605" column="20" lean-forward="false" selection-start-line="605" selection-start-column="20" selection-end-line="605" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AemTest.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/RootComponent.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1489903743000" expanded="true" signature="786:859" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/ResourceComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/runnable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="342" column="20" lean-forward="false" selection-start-line="342" selection-start-column="20" selection-end-line="342" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AemLinkTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+          <folding>
+            <marker date="1489903783000" expanded="true" signature="711:3476" ph="{...}" />
+            <marker date="1489903783000" expanded="true" signature="2519:3472" ph="{...}" />
+            <marker date="1489903783000" expanded="true" signature="3170:3319" ph="{&quot;router&quot;: router...}" />
+            <marker date="1489903783000" expanded="true" signature="3257:3309" ph="{&quot;container&quot;: container...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/AemLink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ClientSlingTest.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/ClientSling.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="66" column="2" lean-forward="false" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/ServerSling.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/Cache.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/AemLinkTest.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/AemLink.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/AemLink.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
