@@ -58,6 +58,23 @@ var Wrapper = (function (_super) {
         else {
             newProps = props;
         }
+        var objx = [props, newProps];
+        if (Object.keys(newProps).length > 0) {
+            // merge old props with new props using Object.assign polyfill
+            var to = Object({});
+            for (var index = 0; index < objx.length; index++) {
+                var nextSource = objx[index];
+                if (nextSource != null) { // Skip over if undefined or null
+                    for (var nextKey in nextSource) {
+                        // Avoid bugs when hasOwnProperty is shadowed
+                        if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                            to[nextKey] = nextSource[nextKey];
+                        }
+                    }
+                }
+            }
+            props = to;
+        }
         return React.createElement(this.config.component, newProps, children);
     };
     Wrapper.prototype.renderBody = function () {

@@ -1,50 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "aem-react-js@^0.4.2",
-        "scope": null,
-        "escapedName": "aem-react-js",
-        "name": "aem-react-js",
-        "rawSpec": "^0.4.2",
-        "spec": ">=0.4.2 <0.5.0",
-        "type": "range"
-      },
-      "/Users/ronald/Downloads/aem-react-master/demo/src/main/ts"
-    ]
-  ],
-  "_from": "aem-react-js@>=0.4.2 <0.5.0",
-  "_id": "aem-react-js@0.4.2",
-  "_inCache": true,
-  "_location": "/aem-react-js",
-  "_nodeVersion": "5.7.0",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/aem-react-js-0.4.2.tgz_1489903815037_0.7329665559809655"
-  },
-  "_npmUser": {
-    "name": "stemey",
-    "email": "stefan.meyer@sinnerschrader.com"
-  },
-  "_npmVersion": "3.6.0",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "aem-react-js@^0.4.2",
-    "scope": null,
-    "escapedName": "aem-react-js",
-    "name": "aem-react-js",
-    "rawSpec": "^0.4.2",
-    "spec": ">=0.4.2 <0.5.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "http://npm.stratpoint.com/npmjs/aem-react-js/-/aem-react-js-0.4.2.tgz",
-  "_shasum": "ecad7a41ce9f95dfa8f93f854327156fb3e2161b",
-  "_shrinkwrap": null,
-  "_spec": "aem-react-js@^0.4.2",
-  "_where": "/Users/ronald/Downloads/aem-react-master/demo/src/main/ts",
   "author": {
     "name": "Stefan Meyer",
     "email": "stefan.meyer@sinnerschrader.com"
@@ -96,9 +50,8 @@
       "email": "stefan.meyer@sinnerschrader.com"
     }
   ],
-  "name": "aem-react-js",
+  "name": "aem-react-js-fork",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "http://www.github.com/sinnerschrader/aem-react-js"
@@ -115,5 +68,9 @@
     "version": "git add ."
   },
   "typings": "dist/src/index.d.ts",
-  "version": "0.4.2"
+  "version": "0.0.1",
+  "publishConfig": {
+    "registry": "http://npm.stratpoint.com/npmjs"
+  },
+  "private": false
 }

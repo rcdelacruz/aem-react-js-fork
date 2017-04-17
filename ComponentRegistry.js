@@ -7,15 +7,25 @@ var ComponentRegistry = (function () {
         this.mapping = mapping;
     }
     ComponentRegistry.prototype.register = function (componentClass) {
+        /**
+         *  Fix for IE11
+         */
+        var result = /^function\s+([\w\$]+)\s*\(/.exec(componentClass.toString());
+        var componentClassName = result[1];
         /* tslint:disable:no-string-literal */
-        var componentClassName = componentClass["name"];
+        // var componentClassName = componentClass["name"];
         /* tsslint:enable:no-string-literal */
         var resourceType = this.mapToResourceType(componentClassName);
         this.mappings.push(new RootComponentRegistry_1.Mapping(resourceType, componentClass, null));
     };
     ComponentRegistry.prototype.registerVanilla = function (config) {
+        /**
+         *  Fix for IE11
+         */
+        var result = /^function\s+([\w\$]+)\s*\(/.exec(config.component.toString());
+        var componentClassName = result[1];
         /* tslint:disable:no-string-literal */
-        var componentClassName = config.component["name"];
+        // var componentClassName = config.component["name"];
         /* tsslint:enable:no-string-literal */
         var resourceType = this.mapToResourceType(componentClassName);
         var wrapperClass = WrapperFactory_1.default.createWrapper(config, resourceType);
